@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### Hi there 👋, I'm Thanh Ngo
 
-I am a software engineering student passionate about **Backend Development** and **System Architecture**. My goal is to build high-performance, scalable microservices systems, especially in the FinTech and Banking sectors.
+I am a software engineering student passionate about **Backend Development** and **System Architecture**. I also have strong capabilities in **Frontend Engineering**, allowing me to build complete end-to-end solutions. My goal is to build high-performance, scalable microservices systems, especially in the FinTech and Banking sectors.
 
 - 🔭 I’m currently working on: **A Microservices System (C-Store)** utilizing **CQRS**, **Outbox Pattern** and **Spring Cloud**.
 - 🌱 I’m currently learning: **DevOps practices** (Docker/K8s), **System Optimization**, and **Advanced Java Core**.
@@ -15,13 +15,19 @@ I am a software engineering student passionate about **Backend Development** and
 
 # 💻 Tech Stack & Skills:
 
-### 🧠 Languages & Frameworks
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+### 🧠 Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-### 🗄️ Database & Caching (System Core)
+### ⚙️ Backend & System Architecture (Main Focus)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) ![Microservices](https://img.shields.io/badge/Microservices-1F85DE?style=for-the-badge&logo=uml&logoColor=white)
+
+### 🎨 Frontend & Interface
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Database & Caching
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### ☁️ DevOps & Infrastructure (Microservices)
+### ☁️ DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 🛠 Tools
