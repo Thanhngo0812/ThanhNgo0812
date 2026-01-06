@@ -53,7 +53,7 @@ I am a software engineering student passionate about **Backend Development** and
 Designed with scalability and fault tolerance in mind, this project solves the challenges of data consistency in distributed systems using **Event-Driven Architecture** and **Change Data Capture (CDC)** patterns. These are the same architectural principles used in core banking and high-frequency trading systems to ensure zero data loss.
 
 ### 🏗️ System Architecture & CDC Flow
-The system follows the **Database-per-Service** pattern, implementing **Debezium** to capture row-level changes from MySQL Binlogs and stream them to Kafka.
+The system follows the **Database-per-Service** pattern, implementing **Debezium** to capture row-level changes from Database Binlogs and stream them to Kafka.
 
 ![System Architecture Diagram](https://res.cloudinary.com/dfcb3zzw9/image/upload/v1767682557/Bi%E1%BB%83u_%C4%91%E1%BB%93_kh%C3%B4ng_c%C3%B3_ti%C3%AAu_%C4%91%E1%BB%81.drawio_2_av0pas.png)
 
@@ -62,5 +62,6 @@ The system follows the **Database-per-Service** pattern, implementing **Debezium
 * **Fault Tolerance:** **Circuit Breaker** implementation (Resilience4j) to prevent cascading failures.
 * **Real-time Monitoring:** Integrated Dashboard to visualize Heap Memory, Thread Pools, and Request Latency.
 * **Security First:** Centralized Authentication via API Gateway using JWT.
+* **Event-Driven Backbone (CDC & Kafka):** Utilized **Debezium** to capture DB changes and stream them to **Kafka**, acting as the core asynchronous mechanism for multiple business workflows. This eliminates service coupling and solves the **Dual-Write problem** efficiently. 
 ---
 [![](https://visitcount.itsvg.in/api?id=ThanhNgo0812&icon=0&color=0)](https://visitcount.itsvg.in)
