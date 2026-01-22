@@ -15,25 +15,35 @@ I am a software engineering student passionate about **Backend Development** and
 
 ---
 
-# 💻 Tech Stack & Skills:
+## 🛠 Tech Stack & Skills
 
-### 🧠 Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+### 🚀 Languages & Backend Frameworks
+* ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) **Java:** Specialized in **Spring Boot** (Spring Security, Spring Data JPA) for building robust, enterprise-grade systems.
+* ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) **Golang:** Leveraged for high-performance services and handling high-concurrency workloads.
+* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) **TypeScript/JS:** Developing server-side applications with a focus on asynchronous programming and type safety.
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) **Python:** Utilized for data processing tasks and supporting AI/ML Engineering workflows.
 
-### ⚙️ Backend & System Architecture (Main Focus)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) ![Microservices](https://img.shields.io/badge/Microservices-1F85DE?style=for-the-badge&logo=uml&logoColor=white)
+### 🏗 Architecture & Design Patterns (Main Focus)
+* **Architectural Styles:** Proficient in **Distributed Microservices** and traditional Monolithic architectures.
+* **Design Patterns:** Applying **Clean Architecture**, **Domain-Driven Design (DDD)**, and the **State Pattern**.
+* **Distributed Systems:** Implementing **Saga Patterns** and **CQRS** for data consistency.
 
-### 🎨 Frontend & Interface
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 📨 Messaging & Integration
+* ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) **Event-Driven Architecture:** Utilizing **Apache Kafka** for resilient communication.
+* **API Protocols:** Designing and optimizing system communication via **RESTful APIs** and **gRPC**.
 
-### 🗄️ Database & Caching
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+### 💾 Databases & Caching
+* ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) **Relational DB:** Expertise in schema design and query optimization.
+* ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) **Caching:** Implementing **Redis** for high-speed data retrieval and session management.
 
 ### ☁️ DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+* ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) **Containerization:** Packaging apps with **Docker** and managing clusters with **Kubernetes (K8s)**.
+* ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) **CI/CD:** Streamlining deployment pipelines using **GitHub Actions**.
+* ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) **System Admin:** Proficient in **Linux** environments and shell scripting.
 
-### 🛠 Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🎨 Frontend & Interface
+* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white) **Frameworks:** Building modern, responsive UIs with **React** and **Next.js**.
+* ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) **Styling:** Delivering optimized UI/UX experiences using **TailwindCSS**.
 ---
 
 # 🏆 My Projects
